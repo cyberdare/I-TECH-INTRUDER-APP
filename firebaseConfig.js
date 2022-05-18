@@ -1,12 +1,11 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAOYvQhUpDm9cylwV3xpoiyZzjxWCvB4as",
-  authDomain: "i-tech-intruder-chat.firebaseapp.com",
-  projectId: "i-tech-intruder-chat",
-  storageBucket: "i-tech-intruder-chat.appspot.com",
-  messagingSenderId: "134463867860",
-  appId: "1:134463867860:web:7e1935174779b147692441",
-  measurementId: "G-SFBM3W2SBQ"
+    apiKey: "AIzaSyBfm0arAUMegksnwvE-S0UZ7t2t_1S-IaY",
+    authDomain: "i-tech-intruder-chat-app.firebaseapp.com",
+    projectId: "i-tech-intruder-chat-app",
+    storageBucket: "i-tech-intruder-chat-app.appspot.com",
+    messagingSenderId: "928984385344",
+    appId: "1:928984385344:web:7576851cbde09ce24b1ca5"
   };
 
 // Initialize Firebase
